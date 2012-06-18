@@ -1,7 +1,6 @@
-jci
+jci - Joe Capital Inc
 ===
 
-Joe Capital Inc
 
 SCHEDULE NEXT MEET!!!
 

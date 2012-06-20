@@ -28,5 +28,7 @@ Qualitatvie Analysis What/Goals
 
 
 Quantative Analysis What/Goals
+- Look into where a data feed for info ( stock, bond, etc ..) data
+	if there is cost, what is it
 
 
